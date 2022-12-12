@@ -14,7 +14,7 @@ import {inlinesvg} from "@dunks1980/inline.svg";
 ```
 <br />
 
-### Usage
+### Usage 
 
 New in version 1.2.0 - better for caching and wrapping with an anchor:
 
